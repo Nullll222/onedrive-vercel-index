@@ -11,9 +11,11 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
+  //图标
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
+  //名字
   title: "Spencer's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
@@ -47,6 +49,7 @@ module.exports = {
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
+  //一些联系方式
   links: [
     {
       name: 'GitHub',
