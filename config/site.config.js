@@ -61,12 +61,12 @@ module.exports = {
     },
   ],*/
   
-  /*links: [
+  links: [
     {
-      name: 'Twitter',
-      link: 'https://twitter.com',
+      name: '暂无联系方式',
+      link: '',
     }
-  ],*/
+  ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
