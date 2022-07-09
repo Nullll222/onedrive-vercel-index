@@ -16,7 +16,7 @@ module.exports = {
 
   // The name of your website. Present alongside your icon.
   //名字
-  title: "Null's OneDrive",
+  title: "Null站",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Public',
@@ -61,12 +61,12 @@ module.exports = {
     },
   ],*/
   
-  links: [
+  /*links: [
     {
       name: 'Twitter',
       link: 'https://twitter.com',
     }
-  ],
+  ],*/
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
